@@ -1,0 +1,48 @@
+{
+  "Version": 5,
+  "Compressed": 0,
+  "Reserved": "AAA=",
+  "Entries": [
+    {
+      "Key": "0x55BC7082",
+      "Value": "XP Booster"
+    },
+    {
+      "Key": "0x60C205D8",
+      "Value": "Boosts Skill gain XP rate by four times!"
+    },
+    {
+      "Key": "0x174DC1F8",
+      "Value": "From XP Statue"
+    },
+    {
+      "Key": "0x75AB67DF",
+      "Value": "4x XP multiplier for all skills"
+    },
+    {
+      "Key": "0x3172DC48",
+      "Value": "4x XP rate"
+    },
+    {
+      "Key": "0x20C84043",
+      "Value": "Enable Buff"
+    },
+    {
+      "Key": "0x7BBAF2B7",
+      "Value": "Disable Buff"
+    },
+    {
+      "Key": "0x24827533",
+      "Value": "This will provide a 4x XP boost when enabled."
+    },
+    {
+      "Key": "0xE2748880",
+      "Value": "Sims will level skills at a normal rate when disabled."
+    }
+  ],
+  "DataLength": "0x000000EC",
+  "DisplayName": "English ",
+  "Locale": "ENG_US",
+  "Key": "220557DA-80000000-00000000B9E4894B",
+  "TypeName": "StringTable"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="nauti:xpbroadcaster" schema="Broadcaster" type="Object">
+      <T name="allow_non_prestige_socials">0</T>
+      <T name="broadcaster_id">0</T>
+      <T name="clustering_radius">0.1</T>
+      <L name="constraints" />
+      <L name="effects" />
+      <T name="frequency">1</T>
+      <T name="immediate">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Broadcaster" schema_hash="0x93302B6D">
+      <Columns>
+        <Column name="allow_non_prestige_socials" type="Boolean" flags="0x00000000" />
+        <Column name="broadcaster_id" type="UInt32" flags="0x00000000" />
+        <Column name="clustering_radius" type="Single" flags="0x00000000" />
+        <Column name="constraints" type="Vector" flags="0x00000000" />
+        <Column name="effects" type="Vector" flags="0x00000000" />
+        <Column name="frequency" type="Single" flags="0x00000000" />
+        <Column name="immediate" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

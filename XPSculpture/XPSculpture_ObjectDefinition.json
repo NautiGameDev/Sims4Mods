@@ -1,0 +1,63 @@
+{
+  "Version": 2,
+  "Name": "Nauti_sculptFloorRWCrimBossStatue_202603070115506800_set1",
+  "MaterialVariant": "Set1-materialVariant",
+  "Tuning": "nauti:xpsculpture",
+  "TuningId": 17817723893477992589,
+  "IsBaby": null,
+  "ThumbnailGeometryState": null,
+  "SimoleonPrice": "0x00000000",
+  "NegativeEnvironmentScore": null,
+  "PositiveEnvironmentScore": null,
+  "Model": [
+    "01661233-00000000-4B845F7F7E007DDF"
+  ],
+  "Rig": [
+    "8EAF13DE-00000000-6BE1BF59F8515A60"
+  ],
+  "EnvironmentScoreEmotionTags": [],
+  "EnvironmentScoreEmotionTags_32": [],
+  "U1": null,
+  "U2": null,
+  "U3": null,
+  "U4": null,
+  "U5": [],
+  "EnvironmentScores": [],
+  "Slot": [
+    "D3044521-00000000-6BE1BF59F8515A60"
+  ],
+  "Icon": [
+    "00000000-00000000-0000000000000000"
+  ],
+  "Footprint": [
+    "D382BF57-80000000-CB845F7F7E007DDF"
+  ],
+  "Components": [
+    {
+      "Value": "Render"
+    },
+    {
+      "Value": "Animation"
+    },
+    {
+      "Value": "Footprint"
+    },
+    {
+      "Value": "Slot"
+    },
+    {
+      "Value": "Position"
+    },
+    {
+      "Value": "Gameplay"
+    },
+    {
+      "Value": "Effects"
+    },
+    {
+      "Value": "Audio"
+    }
+  ],
+  "Key": "C0DB5AE7-00000000-00000000078E4B5F",
+  "TypeName": "ObjectDefinitionResource"
+}
